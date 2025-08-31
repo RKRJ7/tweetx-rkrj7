@@ -19,13 +19,8 @@ TweetX lets users share thoughts, connect with others, and explore timelines —
 
 ## 🚀 Tech Stack
 
-- **Frontend:** Flutter (Dart)
-- **Backend & Services:** Firebase
-
-  - Firebase Authentication
-  - Cloud Firestore
-  - Firebase Storage (for profile pics / media)
-  - Firebase Hosting (optional for web build)
+- **Frontend:** Flutter
+- **Backend:** Firebase
 
 ---
 
