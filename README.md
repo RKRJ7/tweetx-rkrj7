@@ -62,10 +62,4 @@ flutter run
 
 ---
 
-## 📸 Screenshots
-
-(Add some screenshots or GIFs of your app UI here)
-
----
-
 💡 Built with ❤️ using **Flutter & Firebase** by **rkrkj7**
