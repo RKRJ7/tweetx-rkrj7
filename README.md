@@ -1,7 +1,7 @@
 # rkrkj7 TweetX 🐦
 
 A **minimal Twitter clone built with Flutter & Firebase**.
-TweetX lets users share thoughts, connect with others, and explore timelines — a lightweight yet feature-rich project to practice Flutter + Firebase integration.
+TweetX lets users share thoughts and connect with others — a lightweight yet feature-rich project.
 
 ---
 
@@ -43,11 +43,9 @@ Set up Firebase:
 
 1. Go to [Firebase Console](https://console.firebase.google.com/)
 2. Create a new project
-3. Enable **Authentication** (Email/Password, Google Sign-In, etc.)
+3. Enable **Authentication** (Email/Password)
 4. Enable **Cloud Firestore**
-5. Enable **Firebase Storage** (for images, if used)
-6. Add your Flutter apps (iOS, Android, Web) and download `google-services.json` / `GoogleService-Info.plist`
-7. Place them in the respective `android/app/` and `ios/Runner/` directories
+5. Configure project using flutterfire cli
 
 Run the app:
 
